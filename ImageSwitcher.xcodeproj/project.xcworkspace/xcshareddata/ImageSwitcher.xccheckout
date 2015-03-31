@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>635C2EA1-1769-4ACE-9BBE-2A960C645F92</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageSwitcher</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>886B0B717E2946E5A94E94EA72DDD2ED2A818C69</key>
+		<string>https://github.com/lesbaguettes/ImageSwitcher_Swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImageSwitcher.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>886B0B717E2946E5A94E94EA72DDD2ED2A818C69</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lesbaguettes/ImageSwitcher_Swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>886B0B717E2946E5A94E94EA72DDD2ED2A818C69</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>886B0B717E2946E5A94E94EA72DDD2ED2A818C69</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImageSwitcher</string>
+		</dict>
+	</array>
+</dict>
+</plist>

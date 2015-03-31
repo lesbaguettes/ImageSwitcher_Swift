@@ -407,6 +407,7 @@
 				73B7699B1AC17C5700417C2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		73B7699C1AC17C5700417C2B /* Build configuration list for PBXNativeTarget "ImageSwitcherTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				73B7699E1AC17C5700417C2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
